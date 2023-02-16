@@ -1,7 +1,7 @@
 The project is a part of my training at ENS Paris Saclay while pursuing the master MVA "Mathématiques, Vision et Apprentissage".
 
 The data challenge I tackled is a multi class classification problem that aims to predict the right class among the 20 existing classes. 
-The data available in this work is a subset of Caltech-UCSD Birds-200-2011 dataset. The data in our hands is divided between 1082 training images, 103 images 
+The data available in this work is a subset of Caltech-UCSD Birds-200-2011 dataset (you can find it [here](https://www.di.ens.fr/willow/teaching/recvis18orig/assignment3/bird_dataset.zip). The data in our hands is divided between 1082 training images, 103 images 
 for validation and 517 test images.
 
 ### Preprocessing
