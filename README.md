@@ -46,3 +46,5 @@ the performance.
 | YOLO + DA + MobileNet  | 76%  | 69% |
 | ViT  | 90% | 74% |
 | YOLO + ViT | 94% | 88.3%|
+
+With this score, I was ranked 13 out of 131 on the public leaderbord. 
